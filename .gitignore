@@ -1,0 +1,29 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Firebase logs & runtime cache
+firebase-debug.log*
+firestore-debug.log*
+ui-debug.log*
+.firebase/
+.firebaserc.local
+
+# Firebase service account keys & secrets (보안 필수)
+*serviceAccount*.json
+*service-account*.json
+credentials.json
+*.runtimeconfig.json
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
