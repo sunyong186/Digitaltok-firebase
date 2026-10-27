@@ -19,15 +19,6 @@ digitaltok-firebase/
 ├── storage.rules              # Storage 보안 규칙 (예정)
 └── README.md
 ```
-
----
-
-## 🤖 새 대화 세션에서 AI와 이어서 작업하는 방법
-
-새 창에서 이 `digitaltok-firebase` 폴더를 열고 대화를 시작할 때, 아래 문장을 그대로 입력하시면 AI가 모든 맥락을 즉시 파악하고 바로 작업을 이어갈 수 있습니다:
-
-> **"docs/ 폴더에 있는 migration_roadmap.md와 firebase_backend_plan.md 확인하고 다음 단계 진행해줘."**
-
 ---
 
 ## 📌 핵심 설계 요약
